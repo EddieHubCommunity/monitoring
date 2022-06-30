@@ -7,6 +7,8 @@ sites:
     url: https://linkfree.eddiehub.io
   - name: Finder
     url: https://finder.eddiehub.io
+  - name: API
+    url: https://api.eddiehub.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
