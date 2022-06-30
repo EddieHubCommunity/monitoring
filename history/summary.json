@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 326,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1001,
-    "timeWeek": 1001,
-    "timeMonth": 1001,
-    "timeYear": 1001,
+    "time": 975,
+    "timeDay": 975,
+    "timeWeek": 975,
+    "timeMonth": 975,
+    "timeYear": 975,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/api.eddiehub.org",
     "slug": "api",
     "status": "up",
-    "uptime": "1.44%",
-    "uptimeDay": "1.44%",
-    "uptimeWeek": "1.44%",
-    "uptimeMonth": "1.44%",
-    "uptimeYear": "1.44%",
-    "time": 635,
-    "timeDay": 635,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
-    "dailyMinutesDown": {
-      "2022-06-30": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 762,
+    "timeDay": 762,
+    "timeWeek": 762,
+    "timeMonth": 762,
+    "timeYear": 762,
+    "dailyMinutesDown": {}
   }
 ]
