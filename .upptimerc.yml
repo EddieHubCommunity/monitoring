@@ -4,11 +4,11 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: LinkFree
-    url: https://linkfree.eddiehub.io
+    url: http://linkfree.eddiehub.io
   - name: Finder
-    url: https://finder.eddiehub.io
+    url: http://finder.eddiehub.io
   - name: API
-    url: https://api.eddiehub.org
+    url: http://api.eddiehub.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
