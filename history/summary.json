@@ -22,19 +22,19 @@
     "url": "http://finder.eddiehub.io",
     "icon": "https://favicons.githubusercontent.com/finder.eddiehub.io",
     "slug": "finder",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 1022,
-    "timeWeek": 869,
-    "timeMonth": 904,
-    "timeYear": 904,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 900,
+    "timeDay": 937,
+    "timeWeek": 867,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
-      "2022-07-09": 0
+      "2022-07-09": 15
     }
   },
   {
