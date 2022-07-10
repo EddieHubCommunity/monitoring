@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 315,
-    "timeWeek": 280,
+    "timeDay": 291,
+    "timeWeek": 284,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/finder.eddiehub.io",
     "slug": "finder",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 900,
-    "timeDay": 937,
-    "timeWeek": 867,
-    "timeMonth": 900,
-    "timeYear": 900,
-    "dailyMinutesDown": {
-      "2022-07-09": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 908,
+    "timeDay": 942,
+    "timeWeek": 889,
+    "timeMonth": 908,
+    "timeYear": 908,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 927,
-    "timeWeek": 768,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 759,
+    "timeDay": 930,
+    "timeWeek": 804,
+    "timeMonth": 759,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   }
 ]
