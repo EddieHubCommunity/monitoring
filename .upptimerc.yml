@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: EddieHub Upptime
   introTitle: Monitoring of EddieHub apps using Upptime
-  introMessage: Visit our community GitHub Org http://github.eddiehub.org
+  introMessage: [Visit our community GitHub Org](http://github.eddiehub.org)
   navbar:
     - title: Status
       href: /
