@@ -1,4 +1,4 @@
-# [📈 Live Status](https://EddieHubCommunity.github.io/monitoring): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://EddieHubCommunity.github.io/monitoring): <!--live status--> **🟩 All systems are operational**
 
 This repository contains the open-source uptime monitor and status page for [EddieHub](http://eddiehub.org), powered by [Upptime](https://github.com/upptime/upptime).
 
