@@ -22,7 +22,7 @@
     "url": "http://finder.eddiehub.io",
     "icon": "https://favicons.githubusercontent.com/finder.eddiehub.io",
     "slug": "finder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 443,
     "timeMonth": 783,
     "timeYear": 857,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-06": 0
+    }
   },
   {
     "name": "API",
