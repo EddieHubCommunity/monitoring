@@ -4,10 +4,10 @@
     "url": "http://linkfree.eddiehub.io",
     "icon": "https://favicons.githubusercontent.com/linkfree.eddiehub.io",
     "slug": "link-free",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
@@ -15,16 +15,18 @@
     "timeWeek": 321,
     "timeMonth": 305,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-06": 1
+    }
   },
   {
     "name": "Finder",
     "url": "http://finder.eddiehub.io",
     "icon": "https://favicons.githubusercontent.com/finder.eddiehub.io",
     "slug": "finder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "96.60%",
+    "uptimeDay": "96.56%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
@@ -34,7 +36,7 @@
     "timeMonth": 772,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2022-09-06": 49
+      "2022-09-06": 50
     }
   },
   {
@@ -42,7 +44,7 @@
     "url": "http://api.eddiehub.org",
     "icon": "https://favicons.githubusercontent.com/api.eddiehub.org",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 779,
     "timeMonth": 810,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-06": 0
+    }
   }
 ]
