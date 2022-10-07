@@ -4,9 +4,9 @@
     "url": "http://linkfree.eddiehub.io",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.eddiehub.io.ico",
     "slug": "link-free",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 325,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-06": 22
     }
   },
@@ -24,9 +25,9 @@
     "url": "http://finder.eddiehub.io",
     "icon": "https://icons.duckduckgo.com/ip3/finder.eddiehub.io.ico",
     "slug": "finder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -36,6 +37,7 @@
     "timeMonth": 418,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-06": 71
     }
   },
@@ -44,18 +46,19 @@
     "url": "http://api.eddiehub.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.eddiehub.org.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 784,
-    "timeDay": 828,
-    "timeWeek": 804,
-    "timeMonth": 755,
-    "timeYear": 784,
+    "time": 787,
+    "timeDay": 965,
+    "timeWeek": 841,
+    "timeMonth": 766,
+    "timeYear": 787,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-06": 21
     }
   }
