@@ -1,7 +1,7 @@
 url: http://finder.eddiehub.io
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2023-02-01T23:12:26.704Z
+status: down
+code: 504
+responseTime: 606
+lastUpdated: 2023-02-02T23:14:23.421Z
 startTime: Wed Jun 29 2022 20:21:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
