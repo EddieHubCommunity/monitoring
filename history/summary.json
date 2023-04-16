@@ -4,19 +4,19 @@
     "url": "http://linkfree.io",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.io.ico",
     "slug": "link-free-linkfree-io",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 2763,
-    "timeDay": 4894,
-    "timeWeek": 2763,
-    "timeMonth": 2763,
-    "timeYear": 2763,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 2324,
+    "timeDay": 3453,
+    "timeWeek": 2324,
+    "timeMonth": 2324,
+    "timeYear": 2324,
     "dailyMinutesDown": {
-      "2023-04-16": 14
+      "2023-04-16": 23
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.eddiehub.io.ico",
     "slug": "link-free-linkfree-eddiehub-io",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7709,
     "timeDay": 14839,
     "timeWeek": 7709,
     "timeMonth": 7709,
     "timeYear": 7709,
-    "dailyMinutesDown": {
-      "2023-04-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Finder",
