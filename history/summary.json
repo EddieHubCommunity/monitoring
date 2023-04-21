@@ -4,9 +4,9 @@
     "url": "http://linkfree.io",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.io.ico",
     "slug": "link-free-linkfree-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 1460,
     "timeYear": 1460,
     "dailyMinutesDown": {
+      "2023-04-21": 0,
       "2023-04-16": 23
     }
   },
@@ -24,19 +25,19 @@
     "url": "http://linkfree.eddiehub.io",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.eddiehub.io.ico",
     "slug": "link-free-linkfree-eddiehub-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3761,
-    "timeDay": 763,
-    "timeWeek": 4171,
-    "timeMonth": 3761,
-    "timeYear": 3761,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 5520,
+    "timeDay": 11059,
+    "timeWeek": 6080,
+    "timeMonth": 5520,
+    "timeYear": 5520,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-21": 24
     }
   },
   {
