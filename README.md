@@ -30,3 +30,9 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [EddieHub](http://eddiehub.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+## Our Pledge
+
+We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
+
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/monitoring/blob/master/CODE_OF_CONDUCT.md).
