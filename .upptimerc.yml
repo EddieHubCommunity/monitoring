@@ -13,6 +13,8 @@ sites:
     url: http://finder.eddiehub.io
   - name: API
     url: http://api.eddiehub.org
+  - name: RepoRater
+    url: https://repo-rater.eddiehub.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
