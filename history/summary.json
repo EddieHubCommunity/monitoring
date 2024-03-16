@@ -90,18 +90,20 @@
     "url": "http://api.eddiehub.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.eddiehub.org.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 645,
-    "timeWeek": 1794,
-    "timeMonth": 1851,
-    "timeYear": 1166,
-    "dailyMinutesDown": {}
+    "time": 1102,
+    "timeDay": 526,
+    "timeWeek": 1676,
+    "timeMonth": 1808,
+    "timeYear": 1164,
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "RepoRater",
