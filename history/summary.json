@@ -90,19 +90,19 @@
     "url": "http://api.eddiehub.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.eddiehub.org.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 731,
-    "timeWeek": 1364,
-    "timeMonth": 1615,
-    "timeYear": 1158,
+    "time": 1104,
+    "timeDay": 732,
+    "timeWeek": 1331,
+    "timeMonth": 1594,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 12
     }
   },
   {
