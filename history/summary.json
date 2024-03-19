@@ -92,18 +92,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
     "timeDay": 723,
     "timeWeek": 1209,
     "timeMonth": 1485,
     "timeYear": 1153,
-    "dailyMinutesDown": {
-      "2024-03-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RepoRater",
