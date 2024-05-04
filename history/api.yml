@@ -1,7 +1,7 @@
 url: http://api.eddiehub.org
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-05-03T23:03:27.156Z
+status: down
+code: 404
+responseTime: 487
+lastUpdated: 2024-05-04T05:00:41.510Z
 startTime: 2022-06-30T08:05:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
