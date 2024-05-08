@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 854,
-    "timeWeek": 720,
-    "timeMonth": 924,
-    "timeYear": 642,
+    "time": 644,
+    "timeDay": 936,
+    "timeWeek": 753,
+    "timeMonth": 929,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 689,
-    "timeWeek": 568,
-    "timeMonth": 610,
-    "timeYear": 430,
+    "timeDay": 512,
+    "timeWeek": 552,
+    "timeMonth": 614,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 701,
-    "timeWeek": 405,
-    "timeMonth": 435,
+    "timeDay": 695,
+    "timeWeek": 481,
+    "timeMonth": 446,
     "timeYear": 371,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 657,
-    "timeDay": 567,
-    "timeWeek": 595,
-    "timeMonth": 620,
-    "timeYear": 648,
+    "time": 655,
+    "timeDay": 412,
+    "timeWeek": 536,
+    "timeMonth": 613,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2024-01-12": 16,
       "2023-08-09": 21
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.95%",
     "time": 1076,
-    "timeDay": 2153,
-    "timeWeek": 1201,
-    "timeMonth": 1627,
+    "timeDay": 753,
+    "timeWeek": 1161,
+    "timeMonth": 1625,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-04-29": 89,
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 203,
-    "timeDay": 273,
-    "timeWeek": 163,
-    "timeMonth": 206,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 78,
+    "timeWeek": 168,
+    "timeMonth": 200,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
